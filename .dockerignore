@@ -1,0 +1,7 @@
+README.MD
+LICENSE.MD
+.git
+Dockerfile
+.dockerignore
+.DS_Store
+screenshots
