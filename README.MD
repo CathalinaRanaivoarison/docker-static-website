@@ -51,7 +51,7 @@ curl -I http://localhost:8082
 curl -I http://localhost:8082/README.MD
 # → HTTP/1.1 404 Not Found
 ```
-[Curl](screenshots/TestCurl.png)
+![Curl](screenshots/TestCurl.png)
 
 ## Nettoyer
 
